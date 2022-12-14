@@ -8,7 +8,13 @@
 ![image](https://user-images.githubusercontent.com/102014376/207213926-205aa2c2-d7f4-484b-83b0-45bc7e31d056.png)
 
 ![image](https://user-images.githubusercontent.com/102014376/207213955-d831d76f-4878-4622-820c-1ab81a66dd92.png)
-### 강의에 맞는 가격을 넣도록 함
+### 회원번호를 받아와 case를 써서 강의에 맞는 가격을 넣도록 함
+### 만약 mbr 즉, c_no의 앞자리수가 2일 경우 수강료를 50%할인을 시켜주는 if문을 만들어 줌.
+
+
+![image](https://user-images.githubusercontent.com/102014376/207496056-c8023af9-84bf-4add-bb24-f80560eacaca.png)
+### 회원명에서 나온 c_name을 함수에 넣어 c_name과 일치하는 c_no를 불러오고, class_name은 none으로 기본설정을 해 none이 바뀌지 않을 경우 chkVal에 있는 함수가 실행되게 만듦.
+###  
 
 
 ### -=-=-
@@ -20,4 +26,5 @@
 
 
 ## 출력화면
+![image](https://user-images.githubusercontent.com/102014376/207496755-bbeca7d3-8c88-4f07-9f75-4557115fd198.png)
 
