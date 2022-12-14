@@ -27,4 +27,6 @@
 
 ## 출력화면
 ![image](https://user-images.githubusercontent.com/102014376/207496755-bbeca7d3-8c88-4f07-9f75-4557115fd198.png)
+### 예외처리가 실행됐을때 나오는 박스
+![image](https://user-images.githubusercontent.com/102014376/207496838-9d0114e0-2c2a-4865-9339-455dd952024a.png)
 
