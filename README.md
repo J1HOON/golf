@@ -29,4 +29,11 @@
 ![image](https://user-images.githubusercontent.com/102014376/207496755-bbeca7d3-8c88-4f07-9f75-4557115fd198.png)
 ### 예외처리가 실행됐을때 나오는 박스
 ![image](https://user-images.githubusercontent.com/102014376/207496838-9d0114e0-2c2a-4865-9339-455dd952024a.png)
+### 회원명과 강의명을 선택하는 선택박스
+![image](https://user-images.githubusercontent.com/102014376/207496987-9ca5c47c-11cd-406e-a52a-5f8551a61b8c.png)
+![image](https://user-images.githubusercontent.com/102014376/207497002-35fd9b2e-14e1-49f3-a470-c725decc843a.png)
+### 선택을 한다면 자동으로 회원번호와 수강료가 들어감.
+![image](https://user-images.githubusercontent.com/102014376/207497053-545987ee-c56c-4659-8874-ef7a6e2ff959.png)
+
+
 
